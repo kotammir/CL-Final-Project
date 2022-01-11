@@ -1,4 +1,4 @@
-# CL-Final-Project
+# CL-Final-Project: Themes in tourist brochures
 
 Research question and data
 
