@@ -1,4 +1,5 @@
 Cumputational literacy, Final project
+Themes in tourist brochures
 
 Research question and data
 
