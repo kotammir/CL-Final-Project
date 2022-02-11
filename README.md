@@ -1,3 +1,5 @@
+Cumputational literacy, Final project
+
 Research question and data
 
 The object of my final project is to provide an understanding about the representation of Helsinki as a travel destination for English speaking tourists. Therefore, I decided to conduct a LDA topic modelling project where I try to identify themes that appear in texts of tourist brochures. After finding the themes, I want to analyze how do these themes fit together and what kind of story do they tell for visitors.
